@@ -1,6 +1,6 @@
 # RTKnockChar
 
-Code related to the simulations done in the paper "Real-time knock characterization using adaptive filters and power estimators" to appear in IEEE Access.
+Code related to the simulations done in the paper **"Real-time knock characterization using adaptive filters and power estimators"** to appear in *IEEE Access*.
 
 This set of files simulate the knock phenomenon over different scenarios as decribed in the paper. Such scenarios are used as a test to adaptive predictors combined with a power estimator.
 
@@ -14,6 +14,7 @@ If this code is useful for you or your project, please consider citing this work
 
 *R. L. da Silva, P. Rosseti, J. P. F. Santos, A. A. M. Laganá, D. Colón, andJ.  F.  Justo,  “Real-time  knock  characterization  using  adaptive  filters  andpower estimators,” IEEE Access, vol. 8, no. -, pp. –, 2020.*
 
+bibtex:
 ```
 @article{daSilva2020,
 author = {Rafael Luiz da Silva and Pedro Rosseti and João Pedro F. Santos and Armando A. M. Laganá and Diego Col\'{o}n and João F. Justo},
