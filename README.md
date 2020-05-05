@@ -12,7 +12,7 @@ Under data folder you can see the ".mat" file with the simulated knock for each 
 
 If this code is useful for you or your project, please consider citing this work:
 
----
+```
 @article{daSilva2020,
 author = {Rafael Luiz da Silva and Pedro Rosseti and João Pedro F. Santos and Armando A. M. Laganá and Diego Col\'{o}n and João F. Justo},
 title = {Real-time knock characterization using adaptive filters and power estimators},
@@ -22,8 +22,7 @@ year = {2020},
 number = {-},
 pages = {--}
 }
-
----
+```
 
 
 
